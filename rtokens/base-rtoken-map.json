@@ -31,3 +31,19 @@
     }
   }
 }
+{
+  "0xCd4028eD0750ED7a4Bc97A821DE9115bADD3A8ab": {
+    "address": "0xCd4028eD0750ED7a4Bc97A821DE9115bADD3A8ab",
+    "name": "UNIO",
+    "symbol": "UNIO",
+    "logo": "UNIO.svg",
+    "decimals": 18,
+    "about": "Next-gen money. UNIO is a flatcoin and wants to eradicate inflation with a decentralized RWAs composition. Put the focus back to your own prosperity, not on your cash devaluation. Earn your money, govern your money, live your money.",
+    "website": {
+    "support": {
+      "email": "unio.flatcoin@gmail.com",
+      "url": ""
+    },
+    "social": {
+      "twitter": https://x.com/UnioFlatcoin }
+  },
